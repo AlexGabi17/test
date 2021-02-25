@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 /*
-aici facem o citire frumoasa rau versiunea 2
+aici facem o citire frumoasa rau versiunea 3
 */
 
 int main(){
